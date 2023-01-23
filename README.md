@@ -1,2 +1,14 @@
-# Minimal-VSCode-Theme
-A minimalist gray scale theme for vscode inspired by white theme.
+<!----------------------------------------------------------------------------->
+<!--                                                                         -->
+<!--                                                      :::      ::::::::  -->
+<!-- README.md                                          :+:      :+:    :+:  -->
+<!--                                                  +:+ +:+         +:+    -->
+<!-- By: rapdos-s <rapdos-s@student.42sp.org.br>    +#+  +:+       +#+       -->
+<!--                                              +#+#+#+#+#+   +#+          -->
+<!-- Created: 2023/01/23 15:36:51 by rapdos-s          #+#    #+#            -->
+<!-- Updated: 2023/01/23 15:36:51 by rapdos-s         ###   ########.fr      -->
+<!--                                                                         -->
+<!----------------------------------------------------------------------------->
+
+# Minimal
+A simple theme, based on grayscale colors.
