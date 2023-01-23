@@ -1,0 +1,37 @@
+{
+	"name": "minimal",
+	"displayName": "Minimal",
+	"description": "A simple theme, based on grayscale colors.",
+	"version": "1.0",
+	"publisher": "rapdos-s",
+	"engines":
+	{
+		"vscode": "^1.22.0"
+	},
+	"license": "MIT",
+	"homepage": "https://github.com/rapdos-s/Minimal-VSCode-Theme",
+	"bugs":
+	{
+		"url": "https://github.com/rapdos-s/Minimal-VSCode-Theme/issues"
+	},
+	"repository":
+	{
+		"type": "git",
+		"url": "https://github.com/8bitslime/Minimalistic-vscode.git"
+	},
+	"categories":
+	[
+		"Themes"
+	],
+	"contributes":
+	{
+		"themes":
+		[
+			{
+				"label": "Minimal",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Minimalistic-color-theme.json"
+			}
+		]
+	}
+}
