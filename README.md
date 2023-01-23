@@ -12,3 +12,13 @@
 
 # Minimal
 A simple theme, based on grayscale colors.
+
+Usage:
+make on terminal
+Click on extensions (Ctrl + Shift + X)
+Click on ... Menu
+Click Install from VSIX...
+locate the theme.vsix file create by make command
+
+To select, go to the Gear icon then click Color Theme (Ctrl+K Ctrl+T)
+Select Minimal
