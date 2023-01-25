@@ -3,7 +3,9 @@ A simple theme, based on grayscale colors.
 
 <img title="A VSCode window showing the Minimal Theme" width="1321" src="https://github.com/rapdos-s/Minimal-VSCode-Theme/blob/main/screenshots/screen_1.jpg?raw=true">
 
-Usage:
+<details>
+
+<summary>Install Guide</summary>
 
 install on terminal
 ```
@@ -47,3 +49,5 @@ zip theme.vsix minimal-theme.json README.md package.json LICENSE
 
 Select `Minimal`
 <img title="A VSCode window showing the Color Theme list" width="1321" src="https://github.com/rapdos-s/Minimal-VSCode-Theme/blob/main/screenshots/screen_4.jpg?raw=true">
+
+</details>
